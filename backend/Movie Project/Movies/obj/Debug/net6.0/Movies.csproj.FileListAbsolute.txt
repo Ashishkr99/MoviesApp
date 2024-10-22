@@ -1,0 +1,135 @@
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\appsettings.Development.json
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\appsettings.json
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Movies.exe
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Movies.deps.json
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Movies.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Movies.pdb
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\DnsClient.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\SharpCompress.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Snappier.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\ZstdSharp.dll
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\MovieApp\backend\Movies\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cs
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cache
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets\msbuild.Movies.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.props
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.props
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.props
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets.build.json
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\staticwebassets.development.json
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\scopedcss\bundle\Movies.styles.css
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.csproj.CopyComplete
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.dll
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\refint\Movies.dll
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.pdb
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
+D:\MovieApp\backend\Movies\obj\Debug\net6.0\ref\Movies.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\appsettings.Development.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\appsettings.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Movies.exe
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Movies.deps.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Movies.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Movies.pdb
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\DnsClient.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\SharpCompress.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Snappier.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\ZstdSharp.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\CGI Work\BackendCgiProject\Movies\Movies\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cs
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cache
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets.build.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets.development.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.Movies.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.props
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.props
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.props
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\scopedcss\bundle\Movies.styles.css
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.csproj.Up2Date
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\refint\Movies.dll
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.pdb
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
+D:\CGI Work\BackendCgiProject\Movies\Movies\obj\Debug\net6.0\ref\Movies.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\appsettings.Development.json
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\appsettings.json
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Movies.exe
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Movies.deps.json
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Movies.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Movies.pdb
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\DnsClient.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\SharpCompress.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Snappier.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\ZstdSharp.dll
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\MovieApp\backend\Movies\Movies\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cs
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cache
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.Movies.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.props
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.props
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.props
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets.build.json
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\staticwebassets.development.json
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\scopedcss\bundle\Movies.styles.css
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.csproj.CopyComplete
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.dll
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\refint\Movies.dll
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.pdb
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
+D:\MovieApp\backend\Movies\Movies\obj\Debug\net6.0\ref\Movies.dll

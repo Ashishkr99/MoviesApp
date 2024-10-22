@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dot net training 2\\Movie Project\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742DB756-12C7-4A2F-B962-052FFCC5F9CA}|..\\API Gateway\\API Gateway.csproj|e:\\dot net training 2\\movie project\\api gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E01BDE-E942-4821-9EC1-DC2133E4A218}|..\\Movies\\Movies.csproj|e:\\dot net training 2\\movie project\\movies\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742DB756-12C7-4A2F-B962-052FFCC5F9CA}|..\\API Gateway\\API Gateway.csproj|e:\\dot net training 2\\movie project\\api gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\authentication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:authentication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\cinemago.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\repository\\favouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\controllers\\favouritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E01BDE-E942-4821-9EC1-DC2133E4A218}|..\\Movies\\Movies.csproj|e:\\dot net training 2\\movie project\\movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A950ED7-C21A-4E98-B6F2-B9CCC05CB91A}|..\\CinemaGo.Tests\\CinemaGo.Tests.csproj|e:\\dot net training 2\\movie project\\cinemago.tests\\favouritescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A950ED7-C21A-4E98-B6F2-B9CCC05CB91A}|..\\CinemaGo.Tests\\CinemaGo.Tests.csproj|e:\\dot net training 2\\movie project\\cinemago.tests\\favouriteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\models\\favoritesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742DB756-12C7-4A2F-B962-052FFCC5F9CA}|..\\API Gateway\\API Gateway.csproj|e:\\dot net training 2\\movie project\\api gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\migrations\\20241002064814_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\services\\ifavouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\services\\favouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2429DE-3A8E-4B19-901A-3EC7B7C9C702}|..\\CinemaGo\\CinemaGo.csproj|e:\\dot net training 2\\movie project\\cinemago\\repository\\ifavouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|e:\\dot net training 2\\movie project\\authentication\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9C7D93-0C54-4C5B-8B83-31EB09FF4FD9}|Authentication.csproj|solutionrelative:services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authentication.csproj",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Authentication.csproj",
+              "RelativeDocumentMoniker": "Authentication.csproj",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Authentication.csproj",
+              "RelativeToolTip": "Authentication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T17:23:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Movies\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "..\\Movies\\Controllers\\MovieController.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Movies\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "..\\Movies\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:49:11.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:36:44.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\API Gateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "..\\API Gateway\\Ocelot.json",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\API Gateway\\Ocelot.json",
+              "RelativeToolTip": "..\\API Gateway\\Ocelot.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T10:50:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:38:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\API Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\API Gateway\\Program.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\API Gateway\\Program.cs",
+              "RelativeToolTip": "..\\API Gateway\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:51:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwDAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:30:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authentication.http",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Authentication.http",
+              "RelativeDocumentMoniker": "Authentication.http",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Authentication.http",
+              "RelativeToolTip": "Authentication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-07T17:19:40.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CinemaGo.csproj",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\CinemaGo.csproj",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\CinemaGo.csproj",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\CinemaGo.csproj",
+              "RelativeToolTip": "..\\CinemaGo\\CinemaGo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T17:23:54.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T17:29:56.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Authentication",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Authentication.csproj",
+              "RelativeDocumentMoniker": "Authentication.csproj",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Authentication.csproj",
+              "RelativeToolTip": "Authentication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T17:29:12.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T17:40:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavouritesControllerTests.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo.Tests\\FavouritesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo.Tests\\FavouritesControllerTests.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo.Tests\\FavouritesControllerTests.cs",
+              "RelativeToolTip": "..\\CinemaGo.Tests\\FavouritesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:41:55.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Movies\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\Movies\\Models\\Movie.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Movies\\Models\\Movie.cs",
+              "RelativeToolTip": "..\\Movies\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:56:15.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FavouriteRepository.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Repository\\FavouriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Repository\\FavouriteRepository.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Repository\\FavouriteRepository.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Repository\\FavouriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:43:29.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:18:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FavouritesController.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Controllers\\FavouritesController.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Controllers\\FavouritesController.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Controllers\\FavouritesController.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Controllers\\FavouritesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:46:28.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FavouriteServiceTests.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo.Tests\\FavouriteServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo.Tests\\FavouriteServiceTests.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo.Tests\\FavouriteServiceTests.cs",
+              "RelativeToolTip": "..\\CinemaGo.Tests\\FavouriteServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:41:37.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\TokenGenerator.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\TokenGenerator.cs",
+              "RelativeToolTip": "Services\\TokenGenerator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:28:29.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FavoritesModel.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Models\\FavoritesModel.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Models\\FavoritesModel.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Models\\FavoritesModel.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Models\\FavoritesModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:36:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LoginRepository.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "Repository\\LoginRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:01:01.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:49:59.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ILoginRepository.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "Repository\\ILoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:57:16.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:50:28.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:34:12.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\API Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\API Gateway\\appsettings.json",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\API Gateway\\appsettings.json",
+              "RelativeToolTip": "..\\API Gateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T11:03:20.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Models\\login.cs",
+              "RelativeDocumentMoniker": "Models\\login.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Models\\login.cs",
+              "RelativeToolTip": "Models\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:19:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\UserRegistration.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "Models\\UserRegistration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:32:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Program.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Program.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:47:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\appsettings.json",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\appsettings.json",
+              "RelativeToolTip": "..\\CinemaGo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T06:23:44.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:17:32.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IFavouriteService.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Services\\IFavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Services\\IFavouriteService.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Services\\IFavouriteService.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Services\\IFavouriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:45:15.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241002064814_initial.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Migrations\\20241002064814_initial.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Migrations\\20241002064814_initial.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Migrations\\20241002064814_initial.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Migrations\\20241002064814_initial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:48:14.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FavouriteService.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Services\\FavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Services\\FavouriteService.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Services\\FavouriteService.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Services\\FavouriteService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:45:35.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFavouriteRepository.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Repository\\IFavouriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\CinemaGo\\Repository\\IFavouriteRepository.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\CinemaGo\\Repository\\IFavouriteRepository.cs",
+              "RelativeToolTip": "..\\CinemaGo\\Repository\\IFavouriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:42:36.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITokenGenerator.cs",
+              "DocumentMoniker": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\ITokenGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenGenerator.cs",
+              "ToolTip": "E:\\dot net training 2\\Movie Project\\Authentication\\Services\\ITokenGenerator.cs",
+              "RelativeToolTip": "Services\\ITokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:27:49.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

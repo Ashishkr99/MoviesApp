@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "CinemaGo.Controllers.FavouritesController",
+    "Method": "AddFavorite",
+    "RelativePath": "api/Favourites",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "favorite",
+        "Type": "CinemaGo.Models.FavoritesModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaGo.Controllers.FavouritesController",
+    "Method": "Delete",
+    "RelativePath": "api/Favourites/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaGo.Controllers.FavouritesController",
+    "Method": "GetByEmail",
+    "RelativePath": "api/Favourites/email/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

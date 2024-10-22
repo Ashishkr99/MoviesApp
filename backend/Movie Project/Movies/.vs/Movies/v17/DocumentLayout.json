@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\dal\\moviedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:dal\\moviedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\dal\\imoviedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:dal\\imoviedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|d:\\cgi work\\backendcgiproject\\movies\\movies\\movies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5165A391-38C0-45AB-998A-F71617F024C4}|Movies.csproj|solutionrelative:movies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IMovieRepository.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MovieRepository.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Models\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MovieDbContext.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Models\\MovieDbContext.cs",
+              "RelativeToolTip": "Models\\MovieDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Services\\IMovieService.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Services\\IMovieService.cs",
+              "RelativeToolTip": "Services\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieDAL.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\DAL\\MovieDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\MovieDAL.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\DAL\\MovieDAL.cs",
+              "RelativeToolTip": "DAL\\MovieDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMovieDAL.cs",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\DAL\\IMovieDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\IMovieDAL.cs",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\DAL\\IMovieDAL.cs",
+              "RelativeToolTip": "DAL\\IMovieDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:03:56.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T09:03:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movies.csproj",
+              "DocumentMoniker": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Movies.csproj",
+              "RelativeDocumentMoniker": "Movies.csproj",
+              "ToolTip": "D:\\CGI Work\\BackendCgiProject\\Movies\\Movies\\Movies.csproj",
+              "RelativeToolTip": "Movies.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T09:03:56.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

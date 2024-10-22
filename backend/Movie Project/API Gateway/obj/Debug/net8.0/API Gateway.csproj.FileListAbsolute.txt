@@ -1,0 +1,100 @@
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\appsettings.json
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Ocelot.json
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.exe
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.deps.json
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.runtimeconfig.json
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.pdb
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Ocelot.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dot net training 2\Movie Project\API Gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.csproj.AssemblyReference.cache
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.AssemblyInfoInputs.cache
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.AssemblyInfo.cs
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.csproj.CoreCompileInputs.cache
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.API Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.API Gateway.props
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Gateway.props
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Gateway.props
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\scopedcss\bundle\API Gateway.styles.css
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gate.582AC83B.Up2Date
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.dll
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\refint\API Gateway.dll
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.pdb
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.genruntimeconfig.cache
+E:\dot net training 2\Movie Project\API Gateway\obj\Debug\net8.0\ref\API Gateway.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\appsettings.Development.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\appsettings.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Ocelot.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.exe
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.deps.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.runtimeconfig.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\API Gateway.pdb
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\FluentValidation.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Ocelot.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.csproj.AssemblyReference.cache
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.AssemblyInfoInputs.cache
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.AssemblyInfo.cs
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.csproj.CoreCompileInputs.cache
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.API Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.API Gateway.props
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Gateway.props
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Gateway.props
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\scopedcss\bundle\API Gateway.styles.css
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gate.582AC83B.Up2Date
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\refint\API Gateway.dll
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.pdb
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\API Gateway.genruntimeconfig.cache
+D:\CGI Work\CapstoneFinalProject\backend\Movie Project\API Gateway\obj\Debug\net8.0\ref\API Gateway.dll
